@@ -1,2 +1,2 @@
 # Spaceships
-Template for reading / optimizing php code
+(slechte) voorbeeldcode ten behoeve van de Webtechnologie/php les
